@@ -1,2 +1,2 @@
 # shellcommand
-shell basic command
+shell basic command hello word!
